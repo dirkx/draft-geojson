@@ -362,7 +362,7 @@ Example of a bbox member on a feature collection:
         ]
     }
 
-## The connecting lines
+## The Connecting Lines
 
 The 4 lines of the bounding box are defined fully within the
 Coordinate Reference System; i.e. every point on the northernmost 
